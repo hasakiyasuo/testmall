@@ -1,0 +1,36 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "mmall web code",
+  "main": "index.js",
+  "scripts": {
+    "test"        : "echo \"Error: no test specified\" && exit 1",
+    "dev_win"     : "set WEBPACK_ENV=dev&&webpack-dev-server --inline --port 8088",
+    "online_win"  : "set WEBPACK_ENV=online&&webpack-dev-server --inline --port 8088"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasakiyasuo/testmall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasakiyasuo/testmall/issues"
+  },
+  "homepage": "https://github.com/hasakiyasuo/testmall#readme",
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "jquery": "^1.11.0",
+    "style-loader": "^0.23.0",
+    "underscore": "^1.9.1",
+    "webpack": "^1.15.0"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^2.26.0",
+    "url-loader": "^0.5.8",
+    "webpack-dev-server": "^1.16.5"
+  }
+}

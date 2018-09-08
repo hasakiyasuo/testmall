@@ -1,0 +1,14 @@
+[user]
+	name = hasakiyasuo
+	email = 15375351842@163.com
+[alias]
+	<!-- co=checkout -->
+	ci=commit
+	st=status
+	pl=pull
+	ps=push
+	dt=difftool
+	ca=cmmit -am
+	b=branch
+[push]
+	default = simple
