@@ -1,0 +1,16 @@
+.form-line{
+	height:30px;
+	line-height:30px;
+	margin-bottom:10px;
+}
+.form-line .label{
+	width:60px;
+	text-align:center;
+	display:inline-block;
+}
+.form-line input{
+	height:30px;
+	line-height:30px;
+	width:200px;
+	margin-bottom:10px;
+}

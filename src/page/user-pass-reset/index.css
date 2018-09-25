@@ -1,0 +1,79 @@
+.page-wrap{
+	padding:40px 0;
+	
+}
+.user-cont{
+	margin:0 auto;
+	width:400px;
+	background:#fff;
+	padding-top:20px;
+}
+.user-cont .step-con {
+	display:none;
+}
+.user-title{
+	text-align:center;
+	font-size:16px;
+	font-weight:bolder;
+	color:#888;
+}
+.error-item{
+	width:300px;
+	line-height:20px;
+	margin:20px auto;
+	border:1px solid #666;
+	background:#BC8F8F;
+	display:none;
+}
+.errmesg{
+	display:inline-block;
+
+}
+.user-item{
+	width:300px;
+	height:40px;
+	margin:20px auto;
+	border:1px solid #666;
+	
+}
+.user-content{
+	border:none;
+	
+	outline:none;
+	
+	padding-left:20px;
+}
+.user-label{
+	height:40px;
+	display:inline-block;
+	width:50px;
+	border-right:1px solid #000;
+}
+.user-label .fa{
+	font-size:20px;
+	padding:10px 0px;
+	text-align:center;
+	width:50px;
+	color:#999;
+	background:#ccc;
+}
+.user-box .btn-submit{
+	margin:10px auto;
+	width:300px;
+	padding:0px;
+	display:block;
+	text-align:center;
+}
+.link-item{
+	
+	text-align:right;
+	padding-bottom:20px;
+}
+.link-item .link{
+	margin-right:10px;
+}
+/*输入框提示信息*/
+.user-item-text{
+	padding-left:50px;
+	font-size:16px;
+}

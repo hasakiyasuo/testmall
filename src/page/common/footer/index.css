@@ -1,0 +1,14 @@
+.footer{
+	padding-bottom:10px;
+}
+.links{
+	text-align:center;
+
+	line-height:30px;
+}
+.links .link{
+	padding:0 10px;
+}
+.copyright{
+	text-align:center;
+}
